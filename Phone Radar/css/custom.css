@@ -1,0 +1,56 @@
+
+
+@import url(https://fonts.googleapis.com/css?family=Play:400,700&amp;subset=latin,cyrillic);
+body {
+	font-family: 'Play', sans-serif;
+	font-size:14px;
+}
+/* header */
+.intro-header{ background-color:gray;background:no-repeat center center;background-attachment:scroll;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;margin-bottom:50px;background-image: url('../images/m2.jpg');}
+.intro-header .site-heading,.intro-header .post-heading,.intro-header .page-heading{padding:100px 0 50px;color:#fff}
+@media only screen and (min-width:768px){.intro-header .site-heading,.intro-header .post-heading,.intro-header .page-heading{padding:100px 0}}
+.intro-header .site-heading,.intro-header .page-heading{text-align:center}
+.intro-header .site-heading,.intro-header .page-heading h1{margin-top:0;font-size:50px;color:#fff}
+.intro-header .site-heading .subheading,.intro-header .page-heading .subheading{font-size:24px;line-height:1.1;display:block;font-weight:300;margin:10px 0 0}
+@media only screen and (min-width:768px){.intro-header .site-heading,.intro-header .page-heading h1{font-size:80px}}
+.intro-header .post-heading h1{font-size:35px}.intro-header .post-heading .subheading,.intro-header .post-heading .meta{line-height:1.1;display:block}.intro-header .post-heading .subheading{font-size:24px;margin:10px 0 30px;font-weight:600}.intro-header .post-heading .meta{font-style:italic;font-weight:300;font-size:20px}.intro-header .post-heading .meta a{color:#fff}
+@media only screen and (min-width:768px){.intro-header .post-heading h1{font-size:55px}.intro-header .post-heading .subheading{font-size:30px}}
+.panel-body h1 {
+	font-family: 'Play', sans-serif;
+}
+.panel-body .error {
+	height:17px;
+	color:#F60;
+}
+#phone {
+	color:#333;
+	font-size:18px;
+	height:36px;
+}
+#phone2 {
+	color:#333;
+	height:28px;
+}
+.panel1 .panel-heading {
+	padding-top:35px;
+	padding-bottom:35px;
+	font-size:16px;
+}
+footer {
+	background-color:gray;
+}
+footer .container {
+	padding:50px;
+	color:#FFF;
+}
+footer a {
+	color:#FFF;
+}
+.popular_list {
+	list-style:none;
+	font-size:21px;
+}
+.popular_list span {
+	margin-left:30px;
+	font-size:13px;
+}
